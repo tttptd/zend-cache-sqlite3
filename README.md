@@ -1,4 +1,4 @@
-Zend_Cache SQLite3 support for Zend Framework 1.11.xx
+Zend_Cache SQLite3 support for Zend Framework >= 1.11 and < 2
 ======
 
 ###Installation
