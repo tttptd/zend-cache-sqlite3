@@ -1,7 +1,7 @@
 Zend_Cache SQLite3 support for Zend Framework >= 1.11 and < 2
 ======
 
-###Installation
+### Installation
 
 First of all, choose a way to implement your cache.
 
@@ -14,7 +14,7 @@ Change your "Sqlite" parameter on cache factory to **Sqlite3**.
 
 Thats all.
 
-###Credits
+### Credits
 
 SQLite3 support is Implemented by **Gencer Genç**
 
@@ -24,6 +24,6 @@ Performance Improvements by **@wilddom** [https://github.com/wilddom]
 
 Fix for remove() by **@sitnikov** [https://github.com/sitnikov]
 
-###Outlinks
+### Outlinks
 
 Blog: [http://gencergenc.wordpress.com/2012/01/28/zend-zend_cache-with-sqlite3-support]
